@@ -2,5 +2,8 @@
   "name": "is-docs",
   "devDependencies": {
     "lerna": "^4.0.0"
+  },
+  "changelog": {
+    "repo": "is-docs"
   }
 }
