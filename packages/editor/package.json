@@ -1,6 +1,6 @@
 {
   "name": "@is-docs/editor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "devDependencies": {
     "lerna": "^4.0.0"
   }
