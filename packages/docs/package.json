@@ -1,5 +1,5 @@
 {
-  "name": "lerna-template",
+  "name": "@is-docs/docs",
   "devDependencies": {
     "lerna": "^4.0.0"
   }
