@@ -1,5 +1,5 @@
 {
-  "name": "is-docs",
+  "name": "@is-docs/editor",
   "devDependencies": {
     "lerna": "^4.0.0"
   }
